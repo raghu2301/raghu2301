@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **raghu2301@gmail.com**
 
-<h3 align="left">Connect with me: 7717750623 </h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
