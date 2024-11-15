@@ -1,5 +1,5 @@
 <h1 align="center">Rebooting Raghunath's Cyber Journey</h1>
-<h3 align="center">Embarking on my journey into the fascinating world of cybersecurity, I may be starting a bit later than some, but what I bring to the table is a relentless drive and the ability to learn quickly. With a passion for problem-solving and a commitment to growth, I’m diving deep into the realms of network security, ethical hacking, and digital defense. My goal is to turn my curiosity into expertise and contribute to creating a safer digital landscape."</h3>
+<h3 align="center">Embarking on my journey into the fascinating world of cybersecurity, I may be starting a bit later than some, but what I bring to the table is a relentless drive and the ability to learn quickly. With a passion for problem-solving and a commitment to growth, I’m diving deep into the realms of network security, ethical hacking, and digital defense. My goal is to turn my curiosity into expertise and contribute to creating a safer digital landscape.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghu2301&label=Profile%20views&color=0e75b6&style=flat" alt="raghu2301" /> </p>
