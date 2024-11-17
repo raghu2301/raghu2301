@@ -28,4 +28,10 @@
   <li>Adaptability and Time Management</li>
   <li>Problem-Solving and Quick Learning</li>
 </ul>
+<h3 align="left">Projects:</h3>
+<ul>
+  <li>[Intrusion Detection System (IDS)) Configuration](https://github.com/raghu2301/IPS_Configuration_Suricata/blob/main/README.md)</li>
+  <li>[Intrusion Prevention System (IPS) Configuration](https://github.com/raghu2301/IPS_Configuration_Suricata/blob/main/README.md)</li>
+  
+</ul>
 
