@@ -30,6 +30,7 @@
 </ul>
 <h3 align="left">Projects:</h3>
 
+- [Virtual Lab Setup](https://github.com/raghu2301/Virtual_Lab_Setup/blob/main/README.md)
 - [Intrusion Detection System (IDS) Configuration](https://github.com/raghu2301/IDS_Configuration_Suricata/blob/main/README.md)
 - [Intrusion Prevention System (IPS) Configuration](https://github.com/raghu2301/IPS_Configuration_Suricata/blob/main/README.md)
 
