@@ -33,5 +33,6 @@
 - [Virtual Lab Setup](https://github.com/raghu2301/Virtual_Lab_Setup/blob/main/README.md)
 - [Intrusion Detection System (IDS) Configuration](https://github.com/raghu2301/IDS_Configuration_Suricata/blob/main/README.md)
 - [Intrusion Prevention System (IPS) Configuration](https://github.com/raghu2301/IPS_Configuration_Suricata/blob/main/README.md)
-
+- [Honeypot Installation (Cowrie)](https://github.com/raghu2301/Honeypot_Cowrie_Installation/blob/main/README.md)
+- [Honeypot Insatallation (OpenCanary)](https://github.com/raghu2301/Honeypot_OpenCanary_Installation/blob/main/README.md)
 
