@@ -35,4 +35,5 @@
 - [Intrusion Prevention System (IPS) Configuration](https://github.com/raghu2301/IPS_Configuration_Suricata/blob/main/README.md)
 - [Honeypot Installation (Cowrie)](https://github.com/raghu2301/Honeypot_Cowrie_Installation/blob/main/README.md)
 - [Honeypot Insatallation (OpenCanary)](https://github.com/raghu2301/Honeypot_OpenCanary_Installation/blob/main/README.md)
+- [Splunk and Splunk Forwarder Installation and Configuration](https://github.com/raghu2301/Splunk_Installation_Configuration/blob/main/README.md)
 
