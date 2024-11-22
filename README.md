@@ -34,7 +34,9 @@
 - [Intrusion Detection System (IDS) Configuration](https://github.com/raghu2301/IDS_Configuration_Suricata/blob/main/README.md)
 - [Intrusion Prevention System (IPS) Configuration](https://github.com/raghu2301/IPS_Configuration_Suricata/blob/main/README.md)
 - [Honeypot Installation (Cowrie)](https://github.com/raghu2301/Honeypot_Cowrie_Installation/blob/main/README.md)
-- [Honeypot Insatallation (OpenCanary)](https://github.com/raghu2301/Honeypot_OpenCanary_Installation/blob/main/README.md)
+- [Honeypot Installation (OpenCanary)](https://github.com/raghu2301/Honeypot_OpenCanary_Installation/blob/main/README.md)
 - [Splunk and Splunk Forwarder Installation and Configuration](https://github.com/raghu2301/Splunk_Installation_Configuration/blob/main/README.md)
-- [Nessus Installation For Vulnarability Scanning](https://github.com/raghu2301/Nessus_Installation_For_Vulnerability_Scanning/blob/main/README.md)
-
+- [Nessus Installation For Vulnerability Scanning](https://github.com/raghu2301/Nessus_Installation_For_Vulnerability_Scanning/blob/main/README.md)
+- [Ubuntu Server Installation](https://github.com/raghu2301/Ubuntu_Server_Installation/blob/main/README.md)
+- [Installation and Configuration of SplunkForwarder and Sysmon on Windows](https://github.com/raghu2301/Installation_Configuration_SplunkForwarder_Sysmon_On_Windows/blob/main/README.md)
+- [Active Directory Setup](https://github.com/raghu2301/Active_Directory/blob/main/README.md)
