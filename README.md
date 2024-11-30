@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **raghu2301@gmail.com**
 - 📫 Website: [raghu2301.github.io](https://raghu2301.github.io/)
-- 📫 LinkedIn: [Raghunath](www.linkedin.com/in/raghunath-kumar-kewat2301)
+- 📫 LinkedIn: [Raghunath](https://www.linkedin.com/in/raghunath-kumar-kewat2301/)
 
 <p align="left">
 </p>
