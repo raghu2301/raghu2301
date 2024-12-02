@@ -19,6 +19,8 @@
   <li>Network Monitoring and Security</li>
   <li>Security analysis</li>
   <li>Security Information and Event Management (SIEM)</li>
+  <li>Security Orchestration, Automation, and Response (SOAR)</li>
+  <li>Endpoint Detection and Response (EDR)</li>
   <li>Malware Analysis and Monitoring</li>
   <li>Firewall Management</li>
   <li>Log Analysis</li>
@@ -41,3 +43,6 @@
 - [Ubuntu Server Installation](https://github.com/raghu2301/Ubuntu_Server_Installation/blob/main/README.md)
 - [Installation and Configuration of SplunkForwarder and Sysmon on Windows](https://github.com/raghu2301/Installation_Configuration_SplunkForwarder_Sysmon_On_Windows/blob/main/README.md)
 - [Active Directory Setup](https://github.com/raghu2301/Active_Directory/blob/main/README.md)
+- [Firewall pfSense Configuration](https://github.com/raghu2301/Firewall_Installation_Configuration_pfSense/blob/main/README.md)
+- [Pi-hole](https://github.com/raghu2301/Pi-hole/blob/main/README.md)
+- [SOAR-EDR](https://github.com/raghu2301/SOAR-EDR/blob/main/README.md)
